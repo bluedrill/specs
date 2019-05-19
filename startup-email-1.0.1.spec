@@ -7,7 +7,7 @@ Group:          Illallangi
 BuildArch:      noarch
 License:        GPL
 URL:            https://bluedrill.github.io/startup-email
-Source0:        startupemail-1.0.1.tar.gz
+Source0:        startup-email-1.0.1.tar.gz
 
 Requires:       mailx >= 12.5
 Obsoletes:      %{name} <= %{version}
