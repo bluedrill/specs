@@ -1,7 +1,7 @@
 Name:           py-hole-bind9RPZ
 Version:        1.0.1
 Release:        0
-Summary:        
+Summary:        A Pi-hole inspired DNS firewall for use with bind/named using RPZ
 
 Group:          Illallangi
 BuildArch:      noarch
